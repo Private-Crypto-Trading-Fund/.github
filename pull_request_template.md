@@ -9,5 +9,7 @@
 
 ## Checklist
 
+- [ ] Assignee is set
 - [ ] Tests (if applicable)
 - [ ] Documentation (if applicable)
+- [ ] Approvers are set (if applicable)
